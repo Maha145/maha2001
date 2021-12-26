@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /usr/share/nginx/htmld
+COPY INDEX.HTML /usr/share/nginx/htmld
